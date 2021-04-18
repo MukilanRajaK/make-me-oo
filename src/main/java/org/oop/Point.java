@@ -12,7 +12,9 @@ public class Point {
     public double distance(Point to) {
         double xDistance = to.x-this.x;
         double yDistance = to.y-this.y;
-        return Math.sqrt(Math.pow(xDistance, 2) + Math.pow(yDistance, 2));
+        double xSquare = Math.pow(xDistance, 2);
+        double ySquare = Math.pow(yDistance, 2);
+        return Math.sqrt(xSquare + ySquare);
     }
 
     public double direction(Point to) {
