@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.oop.PointTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-04-18T19:19:09" hostname="mukilanrajakesavans-MacBook-Pro.local" time="0.025">
+<testsuite name="org.oop.PointTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-04-18T19:29:44" hostname="mukilanrajakesavans-MacBook-Pro.local" time="0.021">
   <properties/>
-  <testcase name="twoPointsWithSameXAndYCoordinatesShouldHaveADistanceOfZero()" classname="org.oop.PointTest" time="0.017"/>
+  <testcase name="twoPointsWithSameXAndYCoordinatesShouldHaveADistanceOfZero()" classname="org.oop.PointTest" time="0.013"/>
   <testcase name="distanceBetweenOriginAndPointsOnUnitCircleShouldBeOne()" classname="org.oop.PointTest" time="0.001"/>
   <testcase name="originAndPointOnPostiveXAxisShouldBeZeroRadiansAway()" classname="org.oop.PointTest" time="0.001"/>
-  <testcase name="originAndPointOnNegativeXAxisShouldBePiRadiansAway()" classname="org.oop.PointTest" time="0.0"/>
-  <testcase name="originAndPointOnYAxisShouldBeHalfPiRadiansAway()" classname="org.oop.PointTest" time="0.0"/>
+  <testcase name="originAndPointOnNegativeXAxisShouldBePiRadiansAway()" classname="org.oop.PointTest" time="0.001"/>
+  <testcase name="originAndPointOnYAxisShouldBeHalfPiRadiansAway()" classname="org.oop.PointTest" time="0.001"/>
   <testcase name="distanceBetweenTwoOppositePointsOnUnitCircleShouldBeTwo()" classname="org.oop.PointTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
